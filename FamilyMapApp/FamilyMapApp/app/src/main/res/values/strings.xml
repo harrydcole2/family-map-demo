@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FamilyMapApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="select_an_event">Select an event</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="_8080">8080</string>
+    <string name="server_port">Server Port</string>
+    <string name="_10_0_2_2">10.0.2.2</string>
+    <string name="server_host">Server Host</string>
+</resources>
