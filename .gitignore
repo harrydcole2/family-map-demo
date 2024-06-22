@@ -40,3 +40,9 @@ google-services.json
 *.gradle
 gradlew.bat
 gradlew
+/FamilyMapServer/web
+*.log
+*.log.1
+familymap.db
+/FamilyMapServer/out
+/FamilyMapServer/target
